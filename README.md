@@ -38,7 +38,7 @@ Each project includes a `.pbix` report file and summary insights.**
 - Customer Acquisition Cost (CAC) and CLV metrics.  
 
 **Insights:**
-- Total Campaign Cost = **$7K**, Total Revenue = **$24K**, Profit = **$18K**.  
+- Total Campaign Cost = **$7K**, Total Revenue = **$24K**, Profit = **$17K**.  
 - Campaigns targeting families with children had higher acceptance.  
 - Conversion rate and CAC indicate efficient marketing spend.  
 
@@ -63,5 +63,5 @@ Each project includes a `.pbix` report file and summary insights.**
 ## 📬 Contact
 If you’d like to discuss these dashboards or potential collaboration:  
 **Ashwin Kumar**  
-📧 [Your Email]  
-🔗 [LinkedIn Profile]  
+📧 nishu.ashwin007@gmail.com  
+🔗  
