@@ -48,7 +48,7 @@ Each project includes a `.pbix` report file and summary insights.**
 
 📸 Screenshot:  
 ![Campaign Report Page 1](Screenshot%202025-08-27%20215115.png)  
-![Campaign Report Page 2](Screenshot%202025-08-27%20215129.png)  
+![Campaign Report Page 2](Screenshot 2025-08-27 223642.png)  
 ![Campaign Report Page 3](Screenshot%202025-08-27%20215141.png)
 
 ---
