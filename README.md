@@ -23,9 +23,9 @@ Each project includes a `.pbix` report file and summary insights.**
 📂 File: [Tailwind Traders Sales Report.pbix](Tailwind%20Traders%20Sales%20report.pbix)
 
 📸 Screenshot:  
-- (Screenshot 2025-08-27 213649.png)
+![Sales Report Page 1] (Screenshot 2025-08-27 213649.png)
 
-- (Screenshot 2025-08-27 213731.png)
+![Sales Report Page 2] (Screenshot 2025-08-27 213731.png)
 
 ---
 
