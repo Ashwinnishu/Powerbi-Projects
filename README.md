@@ -38,9 +38,11 @@ Each project includes a `.pbix` report file and summary insights.**
 - Customer Acquisition Cost (CAC) and CLV metrics.  
 
 **Insights:**
-- Total Campaign Cost = **$7K**, Total Revenue = **$24K**, Profit = **$17K**.  
-- Campaigns targeting families with children had higher acceptance.  
-- Conversion rate and CAC indicate efficient marketing spend.  
+-Campaigns achieved 50.45% success with 333 responses, generating 3x revenue (24K) vs cost (7K) and a profit of 18K.
+-Families who are Graduate and middle-aged, high-income, married customers responded best.
+-Wines (46%) and Meat (27%) were the top product categories driving revenue.
+-Customers prefer in-store (39%) and catalog (28%) purchases over online.
+-Lower complaints led to higher campaign responses, showing the value of customer satisfaction.
 
 📂 File: [Campaign Analysis Report.pbix](Campaign%20analysis%20report.pbix)  
 
